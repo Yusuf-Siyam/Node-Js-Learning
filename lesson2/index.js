@@ -21,9 +21,10 @@
         
 //     }
 // });
+//---------------delete korte unlik korte hobe
 
 const fs=require("fs");
-fs.rename("demo.txt","demo2.txt",(err)=>{
+fs.rename("demo2.txt","demo3.txt",(err)=>{
     if(err){
         console.log('error');
         

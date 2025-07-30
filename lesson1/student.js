@@ -1,5 +1,5 @@
 exports.getName = () =>{
-    return "Anisul Islam";
+    return "Yusuf Siyam";
 }
 
 const getAge = () => {
